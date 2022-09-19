@@ -86,3 +86,4 @@ class FileFinder
         @chosen_csv.gsub('./db/','').gsub('_',' ').gsub('.csv','').capitalize
     end
 end
+
